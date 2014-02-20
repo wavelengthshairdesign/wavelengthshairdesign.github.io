@@ -8,3 +8,7 @@
 .site-footer a {
 	color: #8BB5DA;
 }
+
+body {
+	padding-top: 120px;
+}
