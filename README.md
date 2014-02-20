@@ -1,2 +1,0 @@
-wavelengthshairdesign.github.io
-===============================

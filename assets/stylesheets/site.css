@@ -1,0 +1,10 @@
+﻿.site-footer {
+	text-align: center;
+	font-size: 14px;
+	color: hsl(0, 0%, 80%);
+}
+
+
+.site-footer a {
+	color: #8BB5DA;
+}
